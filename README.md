@@ -2,7 +2,7 @@
 PL
 Wprowadzenie
 
-BankAccountProject to projekt, który powstał w ramach nauki programowania obiektowego w języku C++ na pierwszym roku studiów. Nasza aplikacja demonstruje podstawowe zasady programowania obiektowego, zarządzanie kontami bankowymi, historią transakcji oraz wykorzystanie podziału na serwisy, repozytoria i menadżerów. Projekt ten jest uruchamiany w środowisku konsolowym na systemie Linux, a jego repozytorium zdalne było rozwijane na platformie Atlassian Bitbucket.
+BankAccountProject to projekt, który powstał w ramach nauki programowania obiektowego w języku C++ na pierwszym roku studiów. Tworzyłem go wspólnie z kolegą ze studiów. Nasza aplikacja demonstruje podstawowe zasady programowania obiektowego, zarządzanie kontami bankowymi, historią transakcji oraz wykorzystanie podziału na serwisy, repozytoria i menadżerów. Projekt ten jest uruchamiany w środowisku konsolowym na systemie Linux, a jego repozytorium zdalne było rozwijane na platformie Atlassian Bitbucket.
 Struktura projektu
 
 Projekt BankAccountProject jest starannie podzielony na trzy główne części, aby zachować porządek i przejrzystość kodu:
@@ -33,7 +33,7 @@ Aby uruchomić projekt BankAccountProject na systemie Linux, wykonaj poniższe k
 #BankAccountProject (EN)
 Introduction
 
-BankAccountProject is a project that was created as part of learning object-oriented programming in C++ during the first year of studies. Our application demonstrates the basic principles of object-oriented programming, management of bank accounts, transaction history, and the use of a division into services, repositories, and managers. This project is run in a console environment on the Linux system, and its remote repository was developed on the Atlassian Bitbucket platform.
+BankAccountProject is a project that was created as part of learning object-oriented programming in C++ during the first year of studies. I made it together with a friend from college. Our application demonstrates the basic principles of object-oriented programming, management of bank accounts, transaction history, and the use of a division into services, repositories, and managers. This project is run in a console environment on the Linux system, and its remote repository was developed on the Atlassian Bitbucket platform.
 Project Structure
 
 The BankAccountProject project is carefully divided into three main parts to maintain order and code clarity:
